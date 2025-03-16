@@ -1,0 +1,11 @@
+body{
+    color: white;
+    background-color: gray;
+}
+img{
+    height: 700px;
+}
+.dark-mode {
+    background-color: black;
+    color: white;
+}
